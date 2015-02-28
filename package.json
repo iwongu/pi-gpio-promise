@@ -1,7 +1,21 @@
 {
   "name": "pi-gpio-promise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Promise version of pi-gpio package",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iwongu/pi-gpio-promise.git"
+  },
+  "homepage": "https://github.com/iwongu/pi-gpio-promise",
+  "bugs": {
+    "url": "https://github.com/iwongu/pi-gpio-promise/issues"
+  },
+  "tags": [
+    "raspberry",
+    "pi",
+    "gpio",
+    "simple"
+  ],  
   "devDependencies": {},
   "dependencies": {
     "pi-gpio": "0.0.6",
